@@ -8,7 +8,11 @@ img{
    padding: 0;
 
 }
+.Main{
+    padding-top:100px;
+     padding-bottom:100px;
 
+}
 header{
     background-color:  #D7D7D7;
     
